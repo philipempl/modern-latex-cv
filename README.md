@@ -1,7 +1,7 @@
 <h1 align="center"> Modern LaTeX CV  </h1> <br>
 <p align="center">
   <a href="https://github.com/philipempl/modern-latex-cv">
-    <img alt="Modern LaTeX CV" title="CV" src="https://github.com/philipempl/modern-latex-cv/tree/master/showcase/logo.jpg" width="450">
+    <img alt="Modern LaTeX CV" title="CV" src="https://raw.githubusercontent.com/philipempl/modern-latex-cv/master/showcase/logo.jpg" width="450">
   </a>
 </p>
 
@@ -29,10 +29,10 @@ This CV is based on the [LaTeXCV] (https://github.com/jankapunkt/latexcv) and pa
 ## Screenshots
 
 <p align="center">
-  <img src = "https://github.com/philipempl/modern-latex-cv/tree/master/showcase/cv-1.jpg" width=350>
+  <img src = "https://raw.githubusercontent.com/philipempl/modern-latex-cv/master/showcase/cv-1.jpg" width=350>
 </p>
 <p align="center">
-  <img src = "https://github.com/philipempl/modern-latex-cv/tree/master/showcase/cv-2.jpg" width=350>
+  <img src = "https://raw.githubusercontent.com/philipempl/modern-latex-cv/master/showcase/cv-2.jpg" width=350>
 </p>
 
 

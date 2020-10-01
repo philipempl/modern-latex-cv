@@ -12,8 +12,10 @@
 
 ## Introduction
 
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
-![Star] (https://camo.githubusercontent.com/1ef04f27611ff643eb57eb87cc0f1204d7a6a14d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d254630253946253843253946266d6573736167653d496625323055736566756c267374796c653d7374796c653d666c617426636f6c6f723d424334453939)
+[![GitHub release](https://img.shields.io/github/release/philipempl/modern-latex-cv.svg)](https://GitHub.com/philipempl/modern-latex-cv/releases/)
+[![CV] (https://camo.githubusercontent.com/1ef04f27611ff643eb57eb87cc0f1204d7a6a14d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d254630253946253843253946266d6573736167653d496625323055736566756c267374796c653d7374796c653d666c617426636f6c6f723d424334453939)]
 
 
 This CV is based on the [LaTeXCV] (https://github.com/jankapunkt/latexcv) and packs it into a nice modern, but also simple design. 

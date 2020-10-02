@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/philipempl/modern-latex-cv">
-    <img alt="Modern LaTeX CV" title="CV" src="https://raw.githubusercontent.com/philipempl/modern-latex-cv/master/resources/logo.jpg" width="400">
+    <img alt="Modern LaTeX CV" title="CV" src="https://raw.githubusercontent.com/philem208/modern-latex-cv/master/resources/logo.jpg" width="400">
   </a>
 </p>
 
@@ -13,10 +13,10 @@
 ## 
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-[![GitHub release](https://img.shields.io/github/release/philipempl/modern-latex-cv.svg)](https://GitHub.com/philipempl/modern-latex-cv/releases/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/philipempl/modern-latex-cv/issues)
-[![GitHub issues](https://img.shields.io/github/issues/philipempl/modern-latex-cv.svg)](https://GitHub.com/philipempl/modern-latex-cv/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/philipempl/modern-latex-cv.svg)](https://GitHub.com/philipempl/modern-latex-cv.js/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub release](https://img.shields.io/github/release/philem208/modern-latex-cv.svg)](https://GitHub.com/philem208/modern-latex-cv/releases/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/philem208/modern-latex-cv/issues)
+[![GitHub issues](https://img.shields.io/github/issues/philem208/modern-latex-cv.svg)](https://GitHub.com/philem208/modern-latex-cv/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/philem208/modern-latex-cv.svg)](https://GitHub.com/philem208/modern-latex-cv.js/issues?q=is%3Aissue+is%3Aclosed)
 
 
 If you find this repository useful, I would appreciate :star:. This CV is based on an existing [LaTeX template](https://www.xm1math.net/texmaker/) and packs it into a nice modern, but also simple design. The tex folder contains a German version and an English version of the template. 
@@ -24,10 +24,10 @@ If you find this repository useful, I would appreciate :star:. This CV is based 
 ## Preview
 
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/philipempl/modern-latex-cv/master/resources/cv-1.jpg" width=500>
+  <img src = "https://raw.githubusercontent.com/philem208/modern-latex-cv/master/resources/cv-1.jpg" width=500>
 </p>
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/philipempl/modern-latex-cv/master/resources/cv-2.jpg" width=500>
+  <img src = "https://raw.githubusercontent.com/philem208/modern-latex-cv/master/resources/cv-2.jpg" width=500>
 </p>
 
 

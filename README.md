@@ -17,6 +17,8 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/philipempl/modern-latex-cv/issues)
 [![GitHub issues](https://img.shields.io/github/issues/philipempl/modern-latex-cv.svg)](https://GitHub.com/philipempl/modern-latex-cv/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/philipempl/modern-latex-cv.svg)](https://GitHub.com/philipempl/modern-latex-cv.js/issues?q=is%3Aissue+is%3Aclosed)
+[![HitCount](http://hits.dwyl.com/philem/modern-latex-cv.svg)](http://hits.dwyl.com/philem/modern-latex-cv)
+
 
 
 If you find this repository useful, I would appreciate :star:. This CV is based on an existing [LaTeX template](https://www.xm1math.net/texmaker/) and packs it into a nice modern, but also simple design. The tex folder contains a German version and an English version of the template. 

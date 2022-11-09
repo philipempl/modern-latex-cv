@@ -258,9 +258,10 @@
 
 \newcommand{\cvsectionsmall}[1] {
 	\vspace{14pt}
+	\settowidth{\barw}{\textbf{\Large #1}}
 	\cvtext{
 		\textbf{\Large{\textcolor{darkcol}{#1}}}\\[-4pt]
-		\textcolor{accentcol}{ \rule{0.2\textwidth}{1.5pt} } \\
+		\textcolor{accentcol}{ \rule{\barw}{1.5pt} } \\
 	}
 }
 

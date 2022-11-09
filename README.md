@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/philipempl/modern-latex-cv">
-    <img alt="Modern LaTeX CV" title="CV" src="https://raw.githubusercontent.com/philem208/modern-latex-cv/master/resources/logo.jpg" width="400">
+    <img alt="Modern LaTeX CV" title="CV" src="https://raw.githubusercontent.com/ZenKyma/modern-latex-cv/master/resources/logo.jpg" width="400">
   </a>
 </p>
 

@@ -28,7 +28,7 @@ If you find this repository useful, I would appreciate :star:. This CV is based 
   <img src = "https://raw.githubusercontent.com/philem208/modern-latex-cv/master/resources/cover_letter.jpg" width=500>
 </p>
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/ZenKyma/modern-latex-cv/blob/master/resources/cv-1.jpg" width=500>
+  <img src = "https://raw.githubusercontent.com/ZenKyma/modern-latex-cv/master/resources/cv-1.jpg" width=500>
 </p>
 <p align="center">
   <img src = "https://raw.githubusercontent.com/ZenKyma/modern-latex-cv/master/resources/cv-2.jpg" width=500>

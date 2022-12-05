@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/philipempl/modern-latex-cv">
-    <img alt="Modern LaTeX CV" title="CV" src="https://raw.githubusercontent.com/philem208/modern-latex-cv/master/resources/logo.jpg" width="400">
+    <img alt="Modern LaTeX CV" title="CV" src="https://raw.githubusercontent.com/ZenKyma/modern-latex-cv/master/resources/logo.jpg" width="400">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ If you find this repository useful, I would appreciate :star:. This CV is based 
 
 ## Preview
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/philem208/modern-latex-cv/master/resources/cover_letter.jpg" width=500>
+  <img src = "https://raw.githubusercontent.com/ZenKyma/modern-latex-cv/master/resources/cover_letter.jpg" width=500>
 </p>
 <p align="center">
   <img src = "https://raw.githubusercontent.com/philem208/modern-latex-cv/master/resources/cv-1.jpg" width=500>
